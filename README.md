@@ -75,7 +75,7 @@ Open your terminal and run the following command to install Open WebUI:
    ```
    #### Set environment variables for Python linking to correct OpenSLL version
    ```bash
-   export PATH="/usr/local/opt/openssl/bin:$PATH
+   export PATH="/usr/local/opt/openssl/bin:$PATH"
    export LDFLAGS="-L/usr/local/opt/openssl/lib"
    export CPPFLAGS="-I/usr/local/opt/openssl/include"
    ```
