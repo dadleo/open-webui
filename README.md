@@ -1,5 +1,5 @@
 ### Line by line, piece by piece Open WebUI Installation Guide
-(Non-tech guys will be beneficial from this guide, which are digested from my discussion with ChatGPT.)
+(Non-tech guys will be beneficial from this guide.)
 
 If you are a lucky fellow, it is pretty smooth to lanuch it on your local machine according to offical installation guide, which only needs 2 lines of command.
 
