@@ -99,7 +99,7 @@ This will start the Open WebUI server, which you can access at [http://localhost
 
 -------------------------
 
-![Uploading Screenshot 2024-11-13 at 13.25.03.png…]()
+[screentshot](./Screenshot.png)
 
 
 ## How to Integrate openwebui and ollama in Docker (on Mac)
@@ -175,6 +175,7 @@ Your Open-WebUI and Ollama shall be run & up. Simply access via [http://localhos
 
 ### Tips
 GGUF models
+
 It is ok for smaller size models ie. <5G otherwise errors pop up. It seems it is an existing bug.
 Also, make sure your ModelFile.txt placed in the same directory as the directory of other models downloaded directly from Open-WebUI interface.
 Example of ModelFile:
