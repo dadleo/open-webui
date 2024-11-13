@@ -97,10 +97,6 @@ Open your terminal and run the following command to install Open WebUI:
 This will start the Open WebUI server, which you can access at [http://localhost:8080](http://localhost:8080) or [http://0.0.0.0:8080/](http://0.0.0.0:8080/)
 
 
--------------------------
-
-[screentshot](./Screenshot.png)
-
 
 ## How to Integrate openwebui and ollama in Docker (on Mac)
 Updated on 13 Nov, 2024
@@ -173,6 +169,8 @@ docker run -d -p 3000:8080 \
 (here 'HF_ENDPOINT=https://hf-mirror.com' is for huminerals under GFW regime)
 Your Open-WebUI and Ollama shall be run & up. Simply access via [http://localhost:3000](http://localhost:3000/).
 
+![screentshot](./Screenshot.png)
+
 ### Tips
 GGUF models
 
@@ -184,3 +182,6 @@ model001_path=model001.gguf
 model002_path=model002.gguf
 ...
 ```
+
+
+
